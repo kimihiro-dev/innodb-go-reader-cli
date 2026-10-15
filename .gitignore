@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+/innodb-reader
+/go.work
+/go.work.sum
